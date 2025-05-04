@@ -8,7 +8,7 @@ Create a room and command a robot within the room.
 1. Clone this repository:
    ```bash
    git clone <repository-url>
-   cd robot
+   cd Robot-Assignment
    ```
 
 2. Install the required dependencies:
