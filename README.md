@@ -7,7 +7,7 @@ Create a room and command a robot within the room.
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/adampetter/Robot-Assignment.git
    cd Robot-Assignment
    ```
 
